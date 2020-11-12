@@ -10092,11 +10092,11 @@ img::-moz-selection {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 3rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
-    padding-top: 1rem;
+    padding-top: 2rem;
     padding-bottom: 1rem;
     background-color: #212529;
   }
@@ -10119,7 +10119,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/banner.jpg");
+  background-image: url("../assets/img/banner2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
