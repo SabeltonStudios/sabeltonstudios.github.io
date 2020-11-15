@@ -10036,8 +10036,8 @@ img::-moz-selection {
 }
 
 .btn-social {
-  height: 2.5rem;
-  width: 2.5rem;
+  height: 4.0rem;
+  width: 4.0rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -10425,7 +10425,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
+  background-image: url("../assets/img/banner3.png");
   background-repeat: no-repeat;
   background-position: center;
 }
