@@ -9682,6 +9682,30 @@ button.bg-dark:focus {
   text-align: center !important;
 }
 
+.text-alingVideo1 {
+  position: relative;
+  left: 100px !important;
+  top: 70px !important
+}
+
+.text-alingVideo2 {
+  position: relative;
+  left: 140px !important;
+  top: 50px !important
+}
+
+.text-alingVideo3 {
+  position: relative;
+  left: 250px !important;
+  top: 70px !important
+}
+
+.text-alingVideo4 {
+  position: relative;
+  left: 290px !important;
+  top: 50px !important
+}
+
 @media (min-width: 576px) {
   .text-sm-left {
     text-align: left !important;
